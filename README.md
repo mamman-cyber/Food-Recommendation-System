@@ -109,10 +109,10 @@ Follow these steps to set up and run the Food Recommendation Expert System on yo
 - **Test Case 3**: Input: None → Output: Error ("Please select at least one dietary preference")
 
 
-## Team Members
+## Team Members Group 11
 - Mamman Cyber (mamman oliver yelwa vug/sen/22/8261): Primary developer and project lead.
 - kennedy: Assisted with testing and validation.
-- Akudigwe kingdavid vug/sen/22/8261: Supported documentation and project coordination.
+- Akudigwe kingdavid vug/sen/22/7367: Supported documentation and project coordination.
 
 ## Contributions
 - Mamman Cyber: Designed and implemented the entire system, including dataset handling (`data_processor.py`, `meals_data.csv`), Boolean filtering logic (`logic.py`), Flask UI with Bootstrap styling (`app.py`, `index.html`, `styles.css`), and documentation (`README.md`).
