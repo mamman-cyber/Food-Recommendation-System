@@ -98,10 +98,6 @@ Follow these steps to set up and run the Food Recommendation Expert System on yo
   - Don’t open `index.html` directly in a browser. Run `python app.py` and visit `http://localhost:5000`.
 - For other issues, contact the team or check Flask documentation.
 
-## Team Members
-- Mamman Cyber: Implemented all components (dataset, logic, Flask UI, documentation).
-- [Add other members, if applicable]
-- [Add other members, if applicable]
 
 ## Dataset Sources
 - `data/meals_data.csv`: A sample dataset simulating data from Spoonacular or Edamam APIs, containing meal names, ingredients, dietary tags, and calories.
